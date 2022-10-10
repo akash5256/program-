@@ -8,10 +8,9 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 	<link rel="stylesheet" href="style.css">
 	<title>Basic Banking System</title>
-	<script type="text/javascript" href = "scripting.js"></script>
+	<script src= "scripting.js"></script>
 	<link href='https://fonts.googleapis.com/css?family=Aclonica' rel='stylesheet'>
-
-<style type="text/css">
+<style>
   .box{
     transition: 1s;
   }
